@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning and its Applications**
 
-- 👨‍💻 All of my projects are available at (https://github.com/ArshidAli84)]((https://github.com/ArshidAli84))
+- 👨‍💻 All of my projects are available at (https://github.com/ArshidAli84)
 
 - 💬 Ask me about **Machine Learning, Smart Grid and Energy Management**
 
