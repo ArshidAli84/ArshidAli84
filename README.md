@@ -1,14 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Arshid Ali</h1>
 
-machine_learning_art = """
-YOUR_ASCII_ART_FOR_MACHINE_LEARNING
-"""
-
-reinforcement_learning_art = """
-YOUR_ASCII_ART_FOR_REINFORCEMENT_LEARNING
-"""
-
-
 <h3 align="center">Graduate Researcher in the Field of Smart Grid | Energy Management | Artificial Intelligence | Machine Learning | Cyber-Physical Resilient System. Open to opportunities related to AI/tech field.</h3>
 
 <p align="center">
@@ -39,9 +30,14 @@ YOUR_ASCII_ART_FOR_REINFORCEMENT_LEARNING
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch Logo" width="100">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn Logo" width="100">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras Logo" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy Logo" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas Logo" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib Logo" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" alt="SciPy Logo" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pypi/pypi-original.svg" alt="PyPI Logo" width="100">
 </p>
 
-- I leverage a comprehensive set of machine learning libraries such as TensorFlow, PyTorch, Scikit-learn, and Keras to build and deploy predictive models. These models are specifically designed for optimizing smart grid functionalities, energy forecasting, and anomaly detection within power systems.
+- I leverage a comprehensive set of machine learning libraries such as TensorFlow, PyTorch, Scikit-learn, Keras, NumPy, Pandas, Matplotlib, SciPy, and PyPI to build and deploy predictive models. These models are specifically designed for optimizing smart grid functionalities, energy forecasting, and anomaly detection within power systems.
 
 ### Relevant Projects and Contributions:
 
@@ -59,3 +55,4 @@ YOUR_ASCII_ART_FOR_REINFORCEMENT_LEARNING
 - Co-authored multiple papers published in leading conferences and journals, focusing on the convergence of AI, smart grid technologies, and energy management.
 
 Let's connect and explore the fascinating realm of AI-driven solutions in smart grids and energy management!
+
