@@ -1,19 +1,52 @@
-<h1 align=“center”>Hey Everyone 👋, I’m Arshid Ali</h1>
+<h1 align="center">Hey Everyone 👋, I'm Arshid Ali</h1>
 
-<h3 align=“center”> Graduate Researcher in the Field of Smart Grid | Energy Management | Artificial Intelligence | Machine Learning | Cyber-Physical Resilient System. Open to opportunities related to AI/tech field. </h3>
+<h3 align="center">Graduate Researcher in the Field of Smart Grid | Energy Management | Artificial Intelligence | Machine Learning | Cyber-Physical Resilient System. Open to opportunities related to AI/tech field.</h3>
 
-<p align=“center”> <img src=“8” alt=“Banner image” width=“800”/> </p>
+<p align="center">
+  ██████╗░███████╗███████╗███╗░░░███╗░██████╗░███████╗
+  ██╔══██╗██╔════╝██╔════╝████╗░████║██╔════╝░██╔════╝
+  ██████╔╝█████╗░░█████╗░░██╔████╔██║██║░░██╗░█████╗░░
+  ██╔══██╗██╔══╝░░██╔══╝░░██║╚██╔╝██║██║░░╚██╗██╔══╝░░
+  ██║░░██║███████╗███████╗██║░╚═╝░██║╚██████╔╝███████╗
+  ╚═╝░░╚═╝╚══════╝╚══════╝╚═╝░░░░░╚═╝░╚═════╝░╚══════╝
+</p>
 
-<p align=“center”> <img src=“9” alt=“Python badge”/> <img src=“10” alt=“TensorFlow badge”/> <img src=“11” alt=“PyTorch badge”/> <img src=“12” alt=“Scikit-learn badge”/> <img src=“13” alt=“GitHub badge”/> <img src=“14” alt=“Colab badge”/> </p>
+- 🔭 I’m currently working on [30-Ready-ML-Projects](https://github.com/jaiswaladi246/Python-4-DevOps), a comprehensive repository showcasing practical machine learning applications across diverse domains, including smart grid and energy management.
 
-🔭 I’m currently working on [30-Ready-ML-Projects], a collection of machine learning projects that cover various topics and applications.
+- 🌱 I’m diving deep into **Reinforcement Learning**, exploring its applications in optimizing energy distribution within smart grids, ensuring efficiency and sustainability.
 
-🌱 I’m currently learning Reinforcement Learning and its Applications to optimize energy management and smart grid operations.
+- 👨‍💻 My projects span various applications in **Machine Learning, Smart Grids, and Energy Management**. Find them at [My GitHub Profile](https://github.com/ArshidAli84).
 
-👨‍💻 All of my projects are available at [my GitHub profile].
+- 💬 Curious about **Machine Learning, Smart Grids, and Energy Management**? I'm passionate about discussing innovations and challenges in these fields.
 
-💬 Ask me about Machine Learning, Smart Grid and Energy Management. I’m always happy to share my knowledge and learn from others.
+- 📫 Reach out to me at arshidali.yaho@gmail.com for collaborations, discussions, or inquiries.
 
-📫 How to reach me: arshidali.yaho@gmail.com or [LinkedIn].
+### Key Areas of Expertise:
 
-<h2 align=“center”>My Projects</h2>
+#### Machine Learning Libraries I Frequently Use:
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow Logo" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch Logo" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn Logo" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras Logo" width="100">
+</p>
+
+- I leverage a comprehensive set of machine learning libraries such as TensorFlow, PyTorch, Scikit-learn, and Keras to build and deploy predictive models. These models are specifically designed for optimizing smart grid functionalities, energy forecasting, and anomaly detection within power systems.
+
+### Relevant Projects and Contributions:
+
+#### 1. Smart Grid Optimization using Reinforcement Learning:
+- Implementation of a Reinforcement Learning model for optimal energy distribution within smart grid networks, resulting in significant enhancements in energy efficiency and cost reduction.
+
+#### 2. Energy Forecasting with Machine Learning:
+- Developed predictive models employing time series analysis and machine learning algorithms to forecast energy consumption patterns, facilitating efficient resource allocation in energy management systems.
+
+#### 3. Anomaly Detection in Power Systems:
+- Created an anomaly detection system utilizing machine learning techniques to identify and mitigate faults or anomalies in power systems, ensuring grid stability and resilience.
+
+### Publications and Research Contributions:
+
+- Co-authored multiple papers published in leading conferences and journals, focusing on the convergence of AI, smart grid technologies, and energy management.
+
+Let's connect and explore the fascinating realm of AI-driven solutions in smart grids and energy management!
