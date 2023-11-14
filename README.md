@@ -11,7 +11,22 @@
   ╚═╝░░╚═╝╚══════╝╚══════╝╚═╝░░░░░╚═╝░╚═════╝░╚══════╝
 </p>
 
+
++-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+-+ +-+ +-+-+-+-+ +-+-+-+-+-+-+-+-+ +-+
+|M|A|C|H|I|N|E| |L|E|A|N|R|I|N|G| ||| |D|E|E|P| |L|E|A|R|N|I|N|G| |||
++-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+-+ +-+ +-+-+-+-+ +-+-+-+-+-+-+-+-+ +-+
++-+-+-+-+-+ +-+-+-+-+
+|S|M|A|R|T| |G|R|I|D|
++-+-+-+-+-+ +-+-+-+-+
+
+
+
+
+
+
 - 🔭 I’m currently working on [30-Ready-ML-Projects]((https://github.com/ArshidAli84)), a comprehensive repository showcasing practical machine learning applications across diverse domains, including smart grid and energy management.
+  
+- 👯 My main research focus is on ML|DL|RL projects related to power and energy systems by learning Smart circuit breakers to avoid power system blackouts during natural disasters.
 
 - 🌱 I’m diving deep into **Reinforcement Learning**, exploring its applications in optimizing energy distribution within smart grids, ensuring efficiency and sustainability.
 
@@ -52,5 +67,3 @@
 - Co-authored multiple papers published in leading conferences and journals, focusing on the convergence of AI, smart grid technologies, and energy management.
 
 Let's connect and explore the fascinating realm of AI-driven solutions in smart grids and energy management!
-
-- 👯 I’m looking to collaborate on [ML|DL|RL projects related to power system and energy.](Smart circuit breaker to avoid power system blackout during natural disasters)
