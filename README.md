@@ -1,5 +1,14 @@
 <h1 align="center">Hey Everyone 👋, I'm Arshid Ali</h1>
 
+machine_learning_art = """
+YOUR_ASCII_ART_FOR_MACHINE_LEARNING
+"""
+
+reinforcement_learning_art = """
+YOUR_ASCII_ART_FOR_REINFORCEMENT_LEARNING
+"""
+
+
 <h3 align="center">Graduate Researcher in the Field of Smart Grid | Energy Management | Artificial Intelligence | Machine Learning | Cyber-Physical Resilient System. Open to opportunities related to AI/tech field.</h3>
 
 <p align="center">
