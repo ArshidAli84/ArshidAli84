@@ -25,6 +25,7 @@
 
 #### Machine Learning Libraries I Frequently Use:
 
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow Logo" width="100">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch Logo" width="100">
@@ -36,6 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" alt="SciPy Logo" width="100">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="PyPI Logo" width="100">
 </p>
+
 
 - I leverage a comprehensive set of machine learning libraries such as TensorFlow, PyTorch, Scikit-learn, Keras, NumPy, Pandas, Matplotlib, SciPy, and PyPI to build and deploy predictive models. These models are specifically designed for optimizing smart grid functionalities, energy forecasting, and anomaly detection within power systems.
 
