@@ -51,6 +51,8 @@
 
 - 📫 Reach out to me at arshidali.yaho@gmail.com for collaborations, discussions, or inquiries.
 
+
+<img
 ### Key Areas of Expertise:
 
 #### Machine Learning Libraries I Frequently Use:
