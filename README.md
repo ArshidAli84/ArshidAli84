@@ -26,13 +26,13 @@
 
 
  
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ArshidAli84/ArshidAli84/main/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
+
 
 
 
@@ -52,7 +52,7 @@
 - 📫 Reach out to me at arshidali.yaho@gmail.com for collaborations, discussions, or inquiries.
 
 
-<img
+
 ### Key Areas of Expertise:
 
 #### Machine Learning Libraries I Frequently Use:
