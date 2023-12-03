@@ -30,18 +30,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ArshidAli84/ArshidAli84/output/github-contribution-grid-snake.svg" />
-  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ArshidAli84/ArshidAli84/main/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
 
-
-
-
-<h1 align="center">Hey Everyone 👋, I'm Arshid Ali</h1>
-
-<h3 align="center">Graduate Researcher in the Field of Smart Grid | Energy Management | Artificial Intelligence | Machine Learning | Cyber-Physical Resilient System. Open to opportunities related to AI/tech field.</h3>
 
 
 
