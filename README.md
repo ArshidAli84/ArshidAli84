@@ -55,28 +55,34 @@
 
 ### Key Areas of Expertise:
 
-#### Machine Learning Libraries I Frequently Use:
 <div align="center">
   <h3>Languages and Tools:</h3>
-  <p> 
+  <p>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    </a> 
-    <!-- Add other tool icons with similar anchor and img tags -->
+      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+    </a>
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    </a>
+    <!-- Add other libraries and tools using similar <a> and <img> tags -->
   </p>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arshidali84&show_icons=true&locale=en&layout=compact" alt="arshidali84" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshidali84&show_icons=true&locale=en&layout=compact" alt="arshidali84" />
   </p>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=arshidali84&show_icons=true&locale=en" alt="arshidali84" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arshidali84&show_icons=true&locale=en" alt="arshidali84" />
   </p>
 
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshidali84&" alt="arshidali84" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshidali84&" alt="arshidali84" />
   </p>
 </div>
+
 
 
 - I leverage a comprehensive set of machine learning libraries such as TensorFlow, PyTorch, Scikit-learn, Keras, NumPy, Pandas, Matplotlib, SciPy, and PyPI to build and deploy predictive models. These models are specifically designed for optimizing smart grid functionalities, energy forecasting, and anomaly detection within power systems.
