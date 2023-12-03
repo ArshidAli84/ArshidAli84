@@ -57,7 +57,7 @@
 
 <div align="center">
   <h3>Languages and Tools:</h3>
-  <p>
+  <p align="center">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
     </a>
@@ -67,21 +67,42 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
     </a>
-    <!-- Add other libraries and tools using similar <a> and <img> tags -->
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+    </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+    </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+    </a>
   </p>
 
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshidali84&show_icons=true&locale=en&layout=compact" alt="arshidali84" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arshidali84&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   </p>
 
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arshidali84&show_icons=true&locale=en" alt="arshidali84" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=arshidali84&show_icons=true&locale=en" alt="GitHub Stats" />
   </p>
 
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshidali84&" alt="arshidali84" />
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshidali84&" alt="GitHub Streak" />
   </p>
 </div>
+
 
 
 
