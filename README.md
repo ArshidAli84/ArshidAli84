@@ -6,7 +6,7 @@
 </h1>
 
 
-<h3 align="center"> A Strong Background and Interest in Machine Learning, Power Systems and Research</h3>
+<h3 align="center"> Interested to Work in the Field of Machine Learning, Power Systems and Research</h3>
 
 <br/>
 
