@@ -92,7 +92,7 @@
 
 
 
-- I leverage a comprehensive set of machine learning libraries such as TensorFlow, PyTorch, Scikit-learn, Keras, NumPy, Pandas, Matplotlib, SciPy, and PyPI to build and deploy predictive models. These models are specifically designed for optimizing smart grid functionalities, energy forecasting, and anomaly detection within power systems.
+- I leverage a comprehensive set of machine learning libraries such as TensorFlow, Scikit-learn, Keras, NumPy, Pandas, Matplotlib, SciPy, and PyPI to build predictive models. These models are specifically designed for optimizing smart grid functionalities, energy forecasting, and anomaly detection within power systems.
 
 ### Relevant Projects and Contributions:
 
@@ -107,6 +107,6 @@
 
 ### Publications and Research Contributions:
 
-- Co-authored multiple papers published in leading conferences and journals, focusing on the convergence of AI, smart grid technologies, and energy management.
+- Co-authored research publication in leading journals, focusing on the convergence of AI, smart grid technologies, and energy management.
 
 Let's connect and explore the fascinating realm of AI-driven solutions in smart grids and energy management!
