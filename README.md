@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on [30-Ready-ML-Projects]((https://github.com/ArshidAli84)), a comprehensive repository showcasing practical machine learning applications across diverse domains, including smart grid and energy management.
   
-- 👯 My main research focus is on ML|DL|RL projects related to power and energy systems by learning Smart circuit breakers to avoid power system blackouts during natural disasters.
+- 👯 My main research focus is on ML|DL|RL projects related to power and energy systems towards Smart circuit breakers.
   
 - 👨‍💻 My projects span various applications in **Machine Learning, Smart Grids, and Energy Management**. Find them at [My GitHub Profile](https://github.com/ArshidAli84).
 
@@ -95,8 +95,8 @@
 
 ### Relevant Projects and Contributions:
 
-#### 1. Smart Grid Optimization using Reinforcement Learning:
-- Implementation of a Reinforcement Learning model for optimal energy distribution within smart grid networks, resulting in significant enhancements in energy efficiency and cost reduction.
+#### 1. Smart Grid Non-technical Losses Detection:
+- Implementation of a Machine Learning model for NTL detection within smart grid networks, resulting in significant enhancements in energy efficiency and cost reduction.
 
 #### 2. Energy Forecasting with Machine Learning:
 - Developed predictive models employing time series analysis and machine learning algorithms to forecast energy consumption patterns, facilitating efficient resource allocation in energy management systems.
