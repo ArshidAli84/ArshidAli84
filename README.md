@@ -28,12 +28,11 @@
 - 🔭 I’m currently working on [30-Ready-ML-Projects]((https://github.com/ArshidAli84)), a comprehensive repository showcasing practical machine learning applications across diverse domains, including smart grid and energy management.
   
 - 👯 My main research focus is on ML|DL|RL projects related to power and energy systems by learning Smart circuit breakers to avoid power system blackouts during natural disasters.
-
-- 🌱 I’m diving deep into **Reinforcement Learning**, exploring its applications in optimizing energy distribution within smart grids, ensuring efficiency and sustainability.
-
+  
 - 👨‍💻 My projects span various applications in **Machine Learning, Smart Grids, and Energy Management**. Find them at [My GitHub Profile](https://github.com/ArshidAli84).
 
-- 💬 Curious about **Machine Learning, Smart Grids, and Energy Management**? I'm passionate about discussing innovations and challenges in these fields.
+- 💬 Curious about **Machine Learning, Smart Grids, and Energy Management**? I'm passionate about discussing innovations and challenges in these fields. Interseted in diving deep into **Reinforcement Learning**, exploring its applications in optimizing energy managemnet within smart microgrid, ensuring efficiency and resilieance.
+
 
 - 📫 Reach out to me at arshidali.yaho@gmail.com for collaborations, discussions, or inquiries.
 
