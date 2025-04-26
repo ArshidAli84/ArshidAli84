@@ -31,10 +31,10 @@
   
 - 👨‍💻 My projects span various applications in **Machine Learning, Smart Grids, and Energy Management**. Find them at [My GitHub Profile](https://github.com/ArshidAli84).
 
-- 💬 Curious about **Machine Learning, Smart Grids, and Energy Management**? I'm passionate about discussing innovations and challenges in these fields. Interseted in diving deep into **Reinforcement Learning**, exploring its applications in optimizing energy managemnet within smart microgrid, ensuring efficiency and resilieance.
+- 💬 Curious about **Machine Learning, Smart Grids, and Energy Management**? Interseted in diving deep into **Reinforcement Learning**, exploring its applications in optimizing energy managemnet within smart microgrid, ensuring efficiency and resilieance.
 
 
-- 📫 Reach out to me at arshidali.yaho@gmail.com for collaborations, discussions, or inquiries.
+- 📫 Reach out to me at arshidali.yaho@gmail.com for discussions, or inquiries.
 
 
 
@@ -43,20 +43,11 @@
 <div align="center">
   <h3>Languages and Tools:</h3>
   <p align="center">
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-    </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-    </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
     </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -69,9 +60,6 @@
     </a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
     </a>
   </p>
 
@@ -91,7 +79,7 @@
 
 
 
-- I leverage a comprehensive set of machine learning libraries such as TensorFlow, Scikit-learn, Keras, NumPy, Pandas, Matplotlib, SciPy, and PyPI to build predictive models. These models are specifically designed for optimizing smart grid functionalities, energy forecasting, and anomaly detection within power systems.
+- A Bit of work on a set of machine learning libraries such as Pytorch, Scikit-learn, Keras, NumPy, Pandas, Matplotlib, SciPy, and PyPI to build predictive models. These models are specifically designed for optimizing smart grid functionalities, energy forecasting, and anomaly detection within power systems.
 
 ### Relevant Projects and Contributions:
 
@@ -106,6 +94,5 @@
 
 ### Publications and Research Contributions:
 
-- Co-authored research publication in leading journals, focusing on the convergence of AI, smart grid technologies, and energy management.
+- Some research publication in leading journals, focusing on the convergence of AI, smart grid technologies, and energy management.
 
-Let's connect and explore the fascinating realm of AI-driven solutions in smart grids and energy management!
