@@ -25,7 +25,7 @@
 
 
 
-- 🔭 I’m currently working on [30-Ready-ML-Projects]((https://github.com/ArshidAli84)), a comprehensive repository showcasing practical machine learning applications across diverse domains, including smart grid and energy management.
+- 🔭 I’m currently working on, a comprehensive repository showcasing practical ML/DL/RL applications across diverse domains, including smart grid and energy management.
   
 - 👯 My main research focus is on ML|DL|RL projects related to power and energy systems towards Smart circuit breakers.
   
